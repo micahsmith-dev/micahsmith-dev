@@ -7,6 +7,6 @@
   - 💬 [Discord](https://discord.gg/HEB4ZWZ)
   - ✉️ [doggyliciousbusiness@gmail.com](mailto:doggyliciousbusiness@gmail.com)
 
-[![DoggyLicious' github stats](https://github-readme-stats.vercel.app/api?username=doggylicious&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/doggylicious/github-readme-stats)
+[![DoggyLicious' github stats](https://github-readme-stats.vercel.app/api?username=micahsmith-dev&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/micahsmith-dev/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doggylicious)](https://github.com/doggylicious/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micahsmith-dev)](https://github.com/micahsmith-dev/github-readme-stats)
