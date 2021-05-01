@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on bigger projects for companies
 - 📫 How to reach me: 
   - 💬 [Discord](https://discord.gg/HEB4ZWZ)
   - ✉️ [micahsmithdev@gmail.com](mailto:micahsmithdev@gmail.com)
